@@ -10,7 +10,7 @@
 :workgroup: NIPWG
 :toclevels: 3
 :mn-document-class: iho
-:mn-output-extensions: xml,html,doc,pdf,rxl
+:mn-output-extensions: html,doc,pdf
 :local-cache-only:
 :imagesdir: images
 :status: draft-development
