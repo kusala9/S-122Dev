@@ -9,7 +9,7 @@ pull:
 local:
 	DT=`date`
 	cd src/Documents/1.2.1/PS && metanorma compile document.adoc -o local
-	git commit -a -m 'Build $(DT)'
+	git commit -a -m "Build $(DT)"
 	git push
 
 tst:
