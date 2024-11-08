@@ -1,4 +1,4 @@
-= Bathymetric Surface Product Specification
+= Marine Protected Areas Product Specification
 :series: S
 :docnumber: 122
 :doctype: standard
