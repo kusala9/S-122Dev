@@ -6,8 +6,8 @@
 :language: en
 :published-date: 2024-12-01
 :copyright-year: 2024
-:committee: hssc
-:workgroup: s100wg
+:committee: HSSC
+:workgroup: NIPWG
 :toclevels: 3
 :mn-document-class: iho
 :mn-output-extensions: xml,html,doc,pdf,rxl
