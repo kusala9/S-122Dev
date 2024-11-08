@@ -1,6 +1,6 @@
 <bibdata type="standard">
 <title language="en" format="text/plain">Marine Protected Areas Product Specification</title>
-<docidentifier primary="true" type="IHO">S-122</docidentifier><docnumber>122</docnumber><date type="published"><on>2024-12</on></date><contributor><role type="author"/><organization>
+<docidentifier primary="true" type="IHO">S-122</docidentifier><docnumber>122</docnumber><date type="published"><on>2024-12-01</on></date><contributor><role type="author"/><organization>
 <name>International Hydrographic Organization</name>
 <abbreviation>IHO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
 <name>International Hydrographic Organization</name>
@@ -8,4 +8,4 @@
 <name>International Hydrographic Organization</name>
 <abbreviation>IHO</abbreviation></organization></owner></copyright><series type="main">
 <title>Standards and Specifications</title>
-<abbreviation>S</abbreviation></series><ext><doctype>standard</doctype><flavor>iho</flavor><editorialgroup><committee><abbreviation>HSSC</abbreviation></committee><workgroup><abbreviation>S100WG</abbreviation></workgroup></editorialgroup></ext></bibdata>
+<abbreviation>S</abbreviation></series><ext><doctype>standard</doctype><flavor>iho</flavor><editorialgroup><committee><abbreviation>HSSC</abbreviation></committee><workgroup><abbreviation>NIPWG</abbreviation></workgroup></editorialgroup></ext></bibdata>
