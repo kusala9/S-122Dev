@@ -17,13 +17,13 @@
 
 include::sections/00-document-history.adoc[]
 
-include::sections/01-overview.adoc[]
+#include::sections/01-overview.adoc[]
 
-include::sections/02-spec_scope.adoc[]
+#include::sections/02-spec_scope.adoc[]
 
-include::sections/03-data_product_id.adoc[]
+#include::sections/03-data_product_id.adoc[]
 
-include::sections/04-data_content_struct.adoc[]
+#include::sections/04-data_content_struct.adoc[]
 
 include::sections/05-coord_ref_system.adoc[]
 
