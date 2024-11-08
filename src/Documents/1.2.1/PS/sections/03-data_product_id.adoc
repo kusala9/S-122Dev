@@ -2,11 +2,11 @@
 [[sec-data-product-identification]]
 == Data Product Identification
 
-*Title*:: Bathymetric Surface
+*Title*:: Marine Protected Areas
 
-*Alternate Title*:: Gridded Bathymetry
+*Alternate Title*:: None
 
-*Abstract*:: The Bathymetric Surface Product consists of a set of values organized to form a regular grid coverage, with associated metadata, for an area of the sea, river, lake, or other body of water. The final grid coverage includes a depth value and optional associated uncertainty estimate for each cell in the grid. 
+*Abstract*:: insert abstract here....
 
 *Topic Category*::
 +
@@ -22,9 +22,9 @@ Main topics for the product, as according to <<iso-19115-1>> MD_TopicCategoryCod
 
 *Geographic Description*:: Areas specific to marine navigation.
 
-*Spatial Resolution*:: The spatial resolution, or the spatial dimension on the earth covered by the size of a grid matrix cell (nominal ground sample distance), varies according to the model adopted by the producing hydrographic office.
+*Spatial Resolution*:: ...
 
-*Purpose*:: The primary purpose of the bathymetric surface product is to provide high-resolution bathymetry in gridded form in support of safety of navigation.
+*Purpose*:: ...n.
 
 *Language*:: English (Mandatory), other (Optional)
 
