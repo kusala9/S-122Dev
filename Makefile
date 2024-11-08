@@ -2,7 +2,7 @@ DEST=
 SRC=
 DT=`date`
 
-all:	pull
+all:	pull local
 
 pull:
 	git pull
