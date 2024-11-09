@@ -2,11 +2,30 @@
 [[sec-data-product-identification]]
 == Data Product Identification
 
-*Title*:: Bathymetric Surface
+*Title*:: Marine Protected Areas
 
-*Alternate Title*:: Gridded Bathymetry
+*Alternate Title*:: None
 
-*Abstract*:: The Bathymetric Surface Product consists of a set of values organized to form a regular grid coverage, with associated metadata, for an area of the sea, river, lake, or other body of water. The final grid coverage includes a depth value and optional associated uncertainty estimate for each cell in the grid. 
+*Abstract*:: A Marine Protected Area (MPA) is a protected area whose boundaries
+             include an area of the ocean. They include areas of the intertidal or
+             sub-tidal terrain, together with their overlying water and associated
+             flora, fauna, historical and cultural features, which have been reserved
+             by law or other effective means to protect part or all of, the enclosed
+             environment. For example, MPAs may be established to protect fish
+             species, rare habitat area, or entire ecosystems.
+
+             MPAs can range from, simple declarations to protect a resource, to
+             areas that are extensively regulated. The degree to which
+             environmental regulations affect shipping varies according to whether
+             MPAs are located in territorial waters, exclusive economic zones, or
+             high seas. These limits are regulated by the law of the sea. Most
+             MPAs are located in the territorial waters of coastal states, where
+             enforcement can be ensured. MPAs can also however be established
+             in a state's exclusive economic zone and even within international
+             waters. For example in 1999, Italy, France and Monaco jointly
+             established a cetacean sanctuary in the Ligurian Sea named the
+             Pelagos Sanctuary for Mediterranean Marine Mammals. This sanctuary
+             includes both national and international waters.
 
 *Topic Category*::
 +
@@ -22,9 +41,9 @@ Main topics for the product, as according to <<iso-19115-1>> MD_TopicCategoryCod
 
 *Geographic Description*:: Areas specific to marine navigation.
 
-*Spatial Resolution*:: The spatial resolution, or the spatial dimension on the earth covered by the size of a grid matrix cell (nominal ground sample distance), varies according to the model adopted by the producing hydrographic office.
+*Spatial Resolution*:: ...
 
-*Purpose*:: The primary purpose of the bathymetric surface product is to provide high-resolution bathymetry in gridded form in support of safety of navigation.
+*Purpose*:: ...n.
 
 *Language*:: English (Mandatory), other (Optional)
 
@@ -44,6 +63,6 @@ Main topics for the product, as according to <<iso-19115-1>> MD_TopicCategoryCod
 . Limited distribution
 --
 
-*Spatial Representation Type*:: Type of spatial representation for the product, as defined by the <<iso-19115-1>> MD_SpatialRepresentationTypeCode: 002 - grid.
+*Spatial Representation Type*:: Type of spatial representation for the product, as defined by the <<iso-19115-1>> MD_SpatialRepresentationTypeCode: XXX - XXX.
 
 *Point of Contact*:: Producing Agency
